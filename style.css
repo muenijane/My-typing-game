@@ -1,0 +1,39 @@
+.highlight {
+    background-color: rgb(64, 228, 23);
+  }
+  
+  .error {
+    background-color: rgb(243, 17, 17);
+    border: rgb(236, 17, 10);
+  }
+  h1 {
+font: 100;
+font-family: 'Times New Roman', Times, serif;
+font-size: 50;
+color: rgb(61, 87, 231);
+  }
+  body {
+    font-style: normal;
+  }
+  button{
+    background-image: url("https://cdn.pixabay.com/photo/2014/04/03/11/58/rocket-312767__340.png");
+    background-position: 100%;
+  }
+quote{
+  block-size: 30%;
+}
+p {
+font-size: 25px;
+}
+body {
+  background-color: rgba(208, 242, 245, 0.979);
+  background-image: url("https://i.pinimg.com/originals/58/00/c8/5800c8fdbc2c578383746189f52ac292.gif") ;
+  background-repeat: no-repeat;
+  background-size: 300px 300px;
+  background-position: bottom right;
+}
+div {
+  width: 100px;
+  padding: 12px;
+  margin: 0;
+}
